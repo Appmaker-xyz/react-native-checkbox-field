@@ -15,6 +15,9 @@
     "ios",
     "android"
   ],
+  "dependencies":{
+    "prop-types": "^15.5.10"
+  },
   "author": "Vincent Lo <vincentsylo@gmail.com>",
   "license": "MIT",
   "bugs": {

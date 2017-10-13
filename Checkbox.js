@@ -1,7 +1,8 @@
 /* @flow */
 'use strict';
 
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import { TouchableOpacity, StyleSheet } from 'react-native';
 
 import Styles from './Styles';
